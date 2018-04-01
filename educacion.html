@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Educación</title>
+</head>
+<body>
+     <header>
+        <svg width="200px" height="130">
+            <image xlink:href="imagenes/logoEMC.svg" width = "200px" height="130px" x="0px" y="0px"></image>
+        </svg>
+        <br>
+        <h1>Hoja De Vida</h1>
+        <h2><em>Edgar Moisés Chávez Macario</em></h2>
+        <p>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="educacion.html">Educación</a></li>
+                <li><a href="experiencia.html">Experiencia</a></li>
+            </ul>
+        </p>
+    </header>
+    <hr>
+    <h2>Educación</h2>
+    <p>
+        <table border="1" cellpadding="10" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Año</th>
+                    <th>Institución</th>
+                    <th>Lugar</th>
+                    <th>¿Culminó?</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2005</td>
+                    <td>Colegio Liceo San Luis</td>
+                    <td>Quetzaltenango</td>
+                    <td>si</td>
+                </tr>
+                <tr>
+                    <td>2008</td>
+                    <td>Colegio Liceo Guatemala</td>
+                    <td>Quetzaltenango</td>
+                    <td>si</td>
+                </tr>
+                <tr>
+                    <td>2016</td>
+                    <td>Universidad Mesoamericana</td>
+                    <td>Quetzaltenango</td>
+                    <td>si</td>
+                </tr>
+                <tr>
+                    <td>2016</td>
+                    <td>Academia De Bomberos</td>
+                    <td>Ciudad de Guatemala</td>
+                    <td>si</td>
+                </tr>
+            </tbody>
+        </table>
+    </p>
+    <hr>
+    <p>
+        <h2>Agregar Información</h2>
+        <form action="" autocomplete="on" name="agregarestu">
+            <p>
+                <label for="ano">Año: </label>
+                <input type="number" min="1994" max="2050" step="1" name="ano" value="1994" autofocus required>
+            </p>
+            <p>
+                <label for="institucion">Institución</label>
+                <input type="text" name="institucion" id="read_inst" placeholder="ej. Academia ABC" required>
+            </p>
+            <p>
+                <label for="lugar">Lugar:</label>
+                <textarea name="lugar" id="read_lug" cols="80" rows="10" required></textarea>
+            </p>
+            <p>
+                <label for="culmino"><strong>¿Culminó?</strong></label>
+                <input type="radio" name="culmino" checked> Si
+                <input type="radio" name="culmino"> No
+            </p>
+            <input type="submit" name="enviar" id="envi1">
+        </form>
+    </p>
+<footer>
+        <br>
+        <h3>Contacto</h3>
+        <ul>
+            <li><img src="imagenes/telefono-logo.png" title="contacto" width="20px"> +502 4251-1215</li>
+            <li><img src="imagenes/mail-logo.png" title="correo" width="20px"> <a href="mailto:edgarchavez4@gmail.com?subject=feedback">edgarchavez4@gmail.com</a></li>
+            <li><img src="imagenes/direccio-logo.png" title="ubicacio" width="20px"> Diagonal 8 Zona. 1 Quetzaltenango, Guatemala</li>
+            <li><img src="imagenes/Twitter.png" title="twitter" width="20px"> @showatan</li>
+        </ul>
+        <p>@Derechos Reservados</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_29_blur">
+   <feGaussianBlur stdDeviation="2.1" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="254" width="254" y="62" x="53.5" stroke-width="NaN" stroke="#000" fill="#444444"/>
+  <rect stroke="#000" id="svg_2" height="234.000011" width="238.000011" y="73.999989" x="62.499989" stroke-opacity="null" stroke-width="1.5" fill="#BBBBBB"/>
+  <rect id="svg_3" height="11" width="41" y="97" x="303.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_4" height="11" width="41" y="139" x="304" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_5" height="11" width="41" y="182" x="304" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_6" height="11" width="41" y="222" x="304" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_7" height="11" width="41" y="264" x="304" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_13" height="11" width="41" y="99" x="19.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_14" height="11" width="41" y="141" x="20" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_15" height="11" width="41" y="184" x="20" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_16" height="11" width="41" y="224" x="20" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect id="svg_17" height="11" width="41" y="266" x="20" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 93.49999999999996,329.50000000000006) " id="svg_18" height="11" width="41" y="324" x="73" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 137.49999999999997,329.50000000000006) " id="svg_19" height="11" width="41" y="324" x="117" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 178.49999999999997,329.50000000000006) " id="svg_20" height="11" width="41" y="324" x="158" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect stroke="#000" transform="rotate(90 221.49999999999997,329.50000000000006) " id="svg_21" height="11" width="41" y="324" x="201" stroke-opacity="null" stroke-width="0" fill="#444444"/>
+  <rect transform="rotate(90 263.5,329.50000000000006) " id="svg_22" height="11" width="41" y="324" x="243" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 95.50000000000001,50.50000000000001) " id="svg_23" height="11" width="41" y="45" x="75" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 139.50000000000003,50.500000000000014) " id="svg_24" height="11" width="41" y="45" x="119" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect transform="rotate(90 180.5,50.50000000000002) " id="svg_25" height="11" width="41" y="45" x="160" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <rect stroke="#000" transform="rotate(90 223.5,50.50000000000002) " id="svg_26" height="11" width="41" y="45" x="203" stroke-opacity="null" stroke-width="0" fill="#444444"/>
+  <rect transform="rotate(90 265.50000000000006,50.50000000000002) " id="svg_27" height="11" width="41" y="45" x="245" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#444444"/>
+  <text stroke="#000" transform="matrix(4.008982083449225,0,0,3.5408847337650893,-1209.341131199174,-329.54672709645456) " font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_28" y="146.997308" x="393.328564" stroke-opacity="null" stroke-width="0" fill="#0000bf">EMC</text>
+  <rect filter="url(#svg_29_blur)" rx="15" stroke="#000" id="svg_29" height="3" width="225.000011" y="202" x="343.5" stroke-opacity="null" stroke-width="0" fill="#0000bf"/>
+  <ellipse ry="12" rx="12" id="svg_30" cy="102.5" cx="97" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_31" cy="155.5" cx="98" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_32" cy="199.5" cx="173" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_33" cy="251.5" cx="174" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_34" cy="278.5" cx="110" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_35" height="9" width="79" y="99" x="103.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_36" height="9" width="81.999998" y="151" x="100.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 178.5,129.50000000000003) " id="svg_37" height="9" width="60" y="125" x="148.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 98.49999999999999,183.50000000000003) " id="svg_38" height="9" width="42.999998" y="179" x="77" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_39" height="9" width="75" y="196" x="94.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 173.5,228.50000000000003) " id="svg_40" height="9" width="60" y="224" x="143.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_41" cy="281.5" cx="234" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_42" cy="196.5" cx="234" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_43" cy="111.5" cx="241" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="12" rx="12" id="svg_44" cy="146.5" cx="279" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_45" height="9" width="112.999997" y="276" x="113.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 234.50000000000003,236.5) " id="svg_46" height="9" width="72.000003" y="232" x="198.499997" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_47" height="9" width="81" y="191" x="202.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 205.5,155.00000000000003) " id="svg_48" height="9" width="88.999997" y="150.5" x="161.000003" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_49" height="9" width="40.000005" y="106" x="201.499994" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" transform="rotate(90 279.50000000000006,172.50000000000003) " id="svg_50" height="9" width="54" y="168" x="252.5" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+ </g>
+</svg>
